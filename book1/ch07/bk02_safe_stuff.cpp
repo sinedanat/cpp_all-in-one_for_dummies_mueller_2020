@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 #include "bk02_safe_stuff.hpp"
 
 using namespace std;
